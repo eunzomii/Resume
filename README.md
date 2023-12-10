@@ -1,2 +1,2 @@
 # eunjeong.github.io
-my resume page
+Eunjeong's Resume Page
