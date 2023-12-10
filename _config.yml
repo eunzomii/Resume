@@ -6,22 +6,22 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Eunjeong Park
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: eunzomi@gmailc.om
+website: www.github.com/eunzomii
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  eunzomii
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: p.e.zz
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
